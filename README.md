@@ -14,6 +14,10 @@ print("Wsp!👋")
 </div>
 <br>
 
+```javascript
+console.log("Portfolio: https://miikudev.vercel.app")
+```
+
 <p align="center">
   <img height="150" src="https://github-readme-stats-git-masterorgs-github-readme-stats-team.vercel.app/api?username=miikudev&theme=react" alt="Mikudev GitHub stats" />
 </p>
